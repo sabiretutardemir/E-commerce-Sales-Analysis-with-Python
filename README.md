@@ -1,4 +1,6 @@
 Olist Market E-Commerce Analysis 📊
+
+
 This notebook dives deep into Olist Market's e-commerce data to uncover insights that drive smarter decisions. By analyzing customer behavior, product performance, and delivery trends, we aim to help Olist boost sales, streamline shipments, and improve customer experience.
 
 What's Inside:
